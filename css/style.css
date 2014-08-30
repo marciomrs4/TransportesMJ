@@ -1,0 +1,119 @@
+
+p{
+	font-family: 'Open Sans',sans-serif;
+}
+
+/*----
+h1,h2,h3,h5{
+	font-family: 'Cuprum',sans-serif;
+}
+*/
+
+#obrigado{
+	padding-left: 30px;
+}
+
+#tranquilidade{
+text-align: center;
+padding-left: 350px;
+font-size: 17px;
+}
+
+figure{
+	margin-top: 80px;
+	padding-left: 115px;
+	padding-top: 4px;
+	padding-bottom: 10px;
+	border-radius:3px;
+	background-color: white;
+}
+
+footer{
+	background-color: #1c1c1c;
+	padding: 10px;
+	color: white;
+	border-radius: 3px;
+	border: 1px solid white;
+}
+
+#rodape{
+	
+}
+
+/*------Pagina quem somos-------*/
+
+#amj{
+	margin-top: 100px;	
+}
+
+#mj{
+	color: #43acd7;
+}
+
+#conteudo{
+	border: 1px solid #999;
+	padding: 10px;
+	background-color: white;
+	border-radius: 3px;
+}
+
+body{
+	background-image: url(../images/transporte2.pn);
+}
+
+/*-----PAGINA CONTATOS-----*/
+
+#contato{
+	margin-top: 100px;
+	color: #43acd7;
+	
+	
+}
+
+form{
+	color: #43acd7;
+	border: 1px solid #999;
+	padding: 5px;
+	border-radius: 2px;
+}
+
+#maps{
+	width: 450px;				
+}
+
+#atendimento{
+	margin-top: 100px;
+	color: #43acd7;		
+}
+
+#infos{
+	color: #999;
+}
+
+#endereco{
+	color: #43acd7;	
+}
+
+/*-------PAGINA SERVIÇOS------*/
+
+#log{
+	border: 1px solid #999;
+	width: 335px;	
+	padding-left:35px;
+}
+
+#log_titulo{
+	margin-top: 90px;	
+}
+
+#log_trans{
+	
+	margin-top: 80px;
+	
+}
+
+/*-------PAGINA COTAÇÃO------*/
+
+#cotacao{
+margin-top: 100px;
+}
